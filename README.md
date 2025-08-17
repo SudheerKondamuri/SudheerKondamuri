@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey 👋, I'm Sudheer Kondamuri
 🔭 I’m currently working on building innovative apps with Flutter + Backend (Node.js / Go)<br>👯 I’m looking to collaborate on AI, Blockchain, and Flutter projects<br>🤝 I’m looking for help with exploring Cybersecurity & DevOps<br>🌱 I’m currently learning Spring Boot, Go, and advanced Flutter<br>💬 Ask me about Flutter, Firebase, Web3, or scaling apps<br>⚡ Fun fact: I started as a Flutter dev, but now I’m obsessed with building full-stack & secure apps
 
 
